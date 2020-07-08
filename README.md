@@ -1,4 +1,4 @@
-usage:
+# usage
 
 push `canvas.toDataURL("image/png")` for every frame of js canvas to an array
 `console.log(array)`
